@@ -17,7 +17,8 @@
             }
             $scope.fileViewer = _d;
           });
-        } else {
+        } 
+        else {
  
           //http://jimhoskins.com/2012/12/17/angularjs-and-apply.html//
           $scope.$apply(function() {
